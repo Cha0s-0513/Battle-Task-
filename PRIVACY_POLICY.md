@@ -15,7 +15,7 @@ Battle Task stores all user data **locally on your device** using encrypted stor
 
 #### Personal Data
 - User profile information (name, preferences)
-- Battle path selection (Loyalist or Chaos)
+- Battle path selection (Guardian or Shadow)
 - Rank and level progression
 - Equipment inventory and discovered items
 
@@ -54,6 +54,15 @@ We do **NOT** collect, transmit, or store:
 - Data from other apps
 - Analytics or tracking data
 - Advertising identifiers
+
+## Generative AI Services
+
+Our application utilizes Google's Gemma LLM for offline processing of goal tracking and career suggestions. 
+
+- **Local Processing:** All AI generation and processing occurs entirely on your device.
+- **No Data Transmission:** Your prompts, goals, and AI-generated responses are NEVER sent to our servers or any third-party AI providers.
+- **Data Retention:** AI-generated content follows the same local storage and deletion policies as other app data.
+- **User Control:** Users can reset AI learning data at any time through the app settings.
 
 ## Data Transmission
 
